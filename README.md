@@ -6,6 +6,9 @@
 - I am absolutely in love with the syntax
 - Love the way you can write \gamma+\delta-y^\hat to get γ+δ+ŷ
 
+# Index
+- [Learning](## Where to learn Julia from)
+
 ## Where to learn Julia from
 
 
