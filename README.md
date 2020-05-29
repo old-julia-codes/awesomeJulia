@@ -2,7 +2,7 @@
 
 - It took me 4 days to learn Julia to a working level. (Yes I have been coding for a while so it was way easier than I thought it would be)
 - I am absolutely in love with the syntax
-- Love the way you can write \gamma+\delta-y^\hat to get γ+δ+ŷ
+- Love the way you can write \gamma+\delta-y\hat to get γ+δ+ŷ
 
 # Index
 - [Learning Julia](#Learn)
