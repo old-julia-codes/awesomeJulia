@@ -7,10 +7,9 @@
 - Love the way you can write \gamma+\delta-y^\hat to get γ+δ+ŷ
 
 # Index
-- [Learning](## Where to learn Julia from)
-
-## Where to learn Julia from
-
+- [Learning](#1)
+- [Contribute](#con)
+## Where to learn Julia from [](#1)
 
 ## Some amazing libraries I loved
 
@@ -43,7 +42,7 @@
 - Something fun I am working on. I do like the FluxML API but I wanted to make it better and more generalized
 
 
-## Contribute
+## Contribute [](#co)
 
 - Please feel free to contribute to this repo by sending a PR.
 - Anything that you wish to add which personally helped you is welcome :)
