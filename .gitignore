@@ -1,0 +1,4 @@
+*.pth
+*.csv
+*checkpoint*
+*.v2
