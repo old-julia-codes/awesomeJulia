@@ -16,6 +16,7 @@
 
 ## Learn
 ### Youtube
+- [Several courses in JuliaAcademy](https://juliaacademy.com/)
 - [Official tutorial](https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE)
 - [A helpful tutorial](https://www.youtube.com/watch?v=sE67bP2PnOo)
 - [Bunch of videos](https://www.youtube.com/playlist?list=PL6_D9USWkG1DslafZLTnltyhxkihWCXiI)
